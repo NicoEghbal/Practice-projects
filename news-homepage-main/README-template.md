@@ -7,7 +7,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  <!-- - [Links](#links) -->
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,9 +29,9 @@ Users should be able to:
 ![](./screencapture-127-0-0-1-5501-news-homepage-main-2024-03-06-17_25_29.png)
 
 
-### Links
+<!-- ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
 
